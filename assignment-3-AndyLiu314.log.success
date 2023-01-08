@@ -1,0 +1,13 @@
+Name:Course Test 
+Hash:a1d21795699866c63fc06cf802f385c6e5a75aac
+Timestamp=2022-10-30 23:07:36 +0000 
+## ********************FAILED********************
+
+****************************************
+## ********************SUCCESS********************
+### *****timeout 120 java -jar venus.jar ./test_files/test_sdot.s > ./out/test_sdot.out*****
+ ```
+```
+### *****diff ./out/test_sdot.out ./ref/test_sdot.out*****
+ ```
+```
